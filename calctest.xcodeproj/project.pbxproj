@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		626B365E2D8EE8BE0037AC75 /* Calcualtions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 626B365D2D8EE8B80037AC75 /* Calcualtions.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		626B36402D8EE8320037AC75 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		626B362E2D8EE82D0037AC75 /* calctest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calctest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		626B363F2D8EE8320037AC75 /* calctestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calctestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		626B36492D8EE8320037AC75 /* calctestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calctestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		626B365D2D8EE8B80037AC75 /* Calcualtions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calcualtions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +84,7 @@
 				626B36422D8EE8320037AC75 /* calctestTests */,
 				626B364C2D8EE8320037AC75 /* calctestUITests */,
 				626B362F2D8EE82D0037AC75 /* Products */,
+				626B365D2D8EE8B80037AC75 /* Calcualtions.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -236,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				626B365E2D8EE8BE0037AC75 /* Calcualtions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

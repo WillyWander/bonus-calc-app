@@ -1,9 +1,3 @@
-//
-//  calctestApp.swift
-//  calctest
-//
-//  Created by Wilde, Lillian, Dr. on 22.03.25.
-//
 
 import SwiftUI
 
